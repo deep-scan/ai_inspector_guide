@@ -1,5 +1,5 @@
 # Deep-scan User Manual
-Thank you for being a proud owner of Deep-scan&reg; AI Inspector!
+This user manual is for the AI Inspector module of Deep-scan&reg;
 
 
 ## Introduction
@@ -7,7 +7,7 @@ AI Inspector is a Deep-scan&reg; module for artifical intelligence-based real ti
 
 This manual documents the key steps to get the AI Inspection system up and running, set the system up to run the inspection process accordingly
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Notice of Rights
 All rights reserved. No part of this document may be reproduced or transmitted in any form by any means, photographic, electronic,
