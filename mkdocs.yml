@@ -1,0 +1,29 @@
+site_name: Deep-scan User Manual
+
+use_directory_urls: false
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Quick Start: quick_start.md
+  - Settings: settings.md
+  - About: about.md
+
+theme:
+  name: material
+  customer_dir: overides
+  #name: readthedocs
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+
+copyright:
+  Copyright &copy; 2024 <a href="www.oremi.sg" target="_blank" rel="nooperner">OREMI AI Pte Ltd</a>
