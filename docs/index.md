@@ -1,4 +1,4 @@
-# Deep-scan User Manual
+# Deep-scan&reg; User Manual
 This user manual is for the AI Inspector module of Deep-scan&reg;
 
 
