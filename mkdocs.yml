@@ -19,7 +19,7 @@ markdown_extensions:
 
 theme:
   name: material
-  customer_dir: overides
+  custom_dir: overides
   features:
     - navigation.tabs
     - navigation.sections
