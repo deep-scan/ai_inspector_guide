@@ -9,10 +9,17 @@ nav:
   - Settings: settings.md
   - About: about.md
 
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+
 theme:
   name: material
   customer_dir: overides
-  #name: readthedocs
   features:
     - navigation.tabs
     - navigation.sections
@@ -23,7 +30,20 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+      primary: teal
+      accent: lime
 
 copyright:
   Copyright &copy; 2024 <a href="www.oremi.sg" target="_blank" rel="nooperner">OREMI AI Pte Ltd, All Rights Reserved</a>
