@@ -108,11 +108,11 @@ Open the App.conf file under the Conf Directory.
 <br/>
 <br/>
 
-## D. Deep-scan Setting
-The Settings tab under the Deep-scan user interface sets up the Work schedule, Data folder, Database transfer protocol and the cameras' crop, PTZ views. 
+## D. Deep-scan&reg; Setting
+The Settings tab under the Deep-scan&reg; user interface sets up the Work schedule, Data folder, Database transfer protocol and the cameras' crop, PTZ views. 
 <br/>
 
-### Deep-scan Setting Tab
+### Deep-scan&reg; Setting Tab
 ![settings_7.png](settings_7.png)
 <br/>
 <br/>
@@ -168,7 +168,7 @@ The camera is on auto-focus at all times.
 <br/>
 Repeat the above process for all cameras.
 <br/>
-Re-start Deep-scan.
+Re-start Deep-scan&reg;.
 
 <br/>
 <br/>
