@@ -6,5 +6,8 @@ Deep-scan&reg; is a suite of AI application modules, including AI Inspector, dev
 <br/>
 <br/>
 <br/>
+<https://www.oremi.sg>   
+<sales@oremi.sg>
+<br/>
 <br/>
 Copyrights &copy; 2024 OREMI AI Pte Ltd, All Rights Reserved

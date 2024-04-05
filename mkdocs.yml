@@ -7,6 +7,7 @@ nav:
   - Quick Start: quick_start.md
   - Installation: installation.md
   - Settings: settings.md
+  - Troubleshotting: troubleshooting.md
   - About: about.md
 
 markdown_extensions:
