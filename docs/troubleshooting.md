@@ -32,7 +32,7 @@ Truncate the process step descriptions to contain within 1-row so that the steps
 <br/>
 
 
-**4. The Voice is not audible**
+**4. Voice guide is not audible**
 <br/>
 Solutions:<br/>
 a. Check that the Generate Voice setting for that process is set as "Y".<br/>

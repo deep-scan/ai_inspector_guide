@@ -17,6 +17,8 @@
 4. The voice and text prompts will guide the user throughout the processs.
 5. Upon completing the process, "PASS" button will light up, click "STOP" to end the process.
 6. The data will be saved into the data folder.
+7. The camera will self-calibrate upon clicking "STOP".<br/>
+The camera calinbration process lasts approximately 30secs, during which a pop-up message will indicate the ongoing process. Once calibration process is completed, the pop-up message goes off automatically and the "START" button is re-enabled.
 
 
 
