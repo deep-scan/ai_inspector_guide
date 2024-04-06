@@ -1,5 +1,6 @@
+# **Quick Start**
 
-## One-Time System Setup
+## **One-Time System Setup**
 1. Install Deep-scan&reg; AI Inspector software.
 2. Setup the camera(s) by connecting the PoE cable to the computer or power plus Ethernet cable.
 3. Setup the inspection or work process steps. 
@@ -9,7 +10,7 @@
 7. Go to "Settings" tab to setup the Product Part Numbers, Data Folder, Work schedule, Database setup and camera zone setup. 
 
 
-## Start using AI Inspector
+## **Start using AI Inspector**
 1. Run Deep-scan&reg; AI Inspection software. 
 2. Click on "START" button on the Main tab. 
 3. Follow the process steps as automatically indicated on the user interface.

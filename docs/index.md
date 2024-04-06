@@ -1,14 +1,14 @@
-# Deep-scan&reg; User Manual
+# **Deep-scan&reg; User Manual**
 This user manual is for the AI Inspector module of Deep-scan&reg;
 
 
-## Introduction
+## **Introduction**
 AI Inspector is a Deep-scan&reg; module for artifical intelligence-based real time assisted guide to work processes and quality inspections for the manufacturing and engineering industry.
 
 This manual documents the key steps to get the AI Inspection system up and running, set the system up to run the inspection process according to your desired operation process.
 <br/>
 
-## Features
+## **Features**
 ### Synchronized PTZ IP Cameras
 
 The key feature of the AI Inspector module is the support of real time synchronized PTZ, IP and USB UVC cameras during AI video detections and analysis.
@@ -23,7 +23,7 @@ User self configuration enables the user to setup the process in AI Inspector ac
 <br/>
 <br/>
 
-## Minimum System Requirements for Deep-scan
+## **Minimum System Requirements for Deep-scan&reg;**
 
 |                               | Mimimum                                   | Recommended               |
 | ----------------------------- | ----------------------------------------- | ------------------------- |
@@ -39,6 +39,11 @@ User self configuration enables the user to setup the process in AI Inspector ac
 | **Sound Speaker**             | Yes                                       |                           |
 | **Interface Ports**           |Ethernet; 3x USB2.0; 2x USB-C; 3x HDMI     |                           |
 
+<br/>
+
+## **Disclaimer**
+This disclaimer is in regards to the application of Deep-scan&reg;, its hardware and any other utilitiy accessories and utility compoenents. <br/>
+OREMI AI will not be liable, directly and/or indirectly, for any mishap or any unintended incidents resulting from the use or abuse of the Deep-scan&reg; system. Warranty from OREMI AI's hardware does not cover incidental or cosmetic damages.<br/>
 
 
 <br/><br/><br/>

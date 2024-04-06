@@ -1,3 +1,5 @@
+#**Settings**
+
 The following settings enables the user to configure the process flow, link the cameras and view angles, setup the machine learning detections for the entire process.
 The user has full control over how the system flows and captures the data over the entire process.
 <br/> 
@@ -13,8 +15,9 @@ C. Mandatory Process Steps
 <br/>
 D. Process Steps
 <br/>
+<br/>
 
-## A. App Configuration
+## **A. App Configuration**
 In this configuration, the user sets up the process names, part names and links the AI modules to the process step files from the above steps.
 <br/>
 Open the App.conf file under the Conf Directory.
@@ -62,7 +65,7 @@ Photo Capture with detection box - example:
 <br/>
 
 
-## B. Deep-scan&reg; Setting
+## **B. Deep-scan&reg; Setting**
 The Settings tab under the Deep-scan&reg; user interface sets up the Work schedule, Data folder, Database transfer protocol and the cameras' crop, PTZ views. 
 <br/>
 
@@ -127,10 +130,9 @@ Re-start Deep-scan&reg;.
 <br/>
 
 
-## C. Mandatory Process Step
-Open the Mandatory Process step file, see the picture below.
-Fill up just 1 row for the overal process part number. 
-The process is the same as with the Process Steps Settings.
+## **C. Mandatory Process Step**
+Open the Mandatory Process step file, see the picture below.<br/>
+Fill up just 1 row for the overal process part number. The process is the same as with the Process Steps Settings.<br/>
 <br/>
 Mandatory process step - example:
 <br/>
@@ -138,7 +140,7 @@ Mandatory process step - example:
 <br/>
 <br/>
 
-## D. Process Steps
+## **D. Process Steps**
 These settings configure the process flow for the AI Inspector and link the camera sources, camera PTZ zones and various action items to each of the process steps.
 <br/>
 Open the Process Steps file under the Conf directory.
@@ -153,49 +155,52 @@ Fill up the key process columns in the sheet, as shown in the example below.
 <br/>
 <br/>
 
-**Detection Classes**: Enter according to the classes provided for each of your parts.
+**Detection Classes**: Enter according to the classes provided for each of your parts.<br/>
 <br/>
 
-**Step Number**: This may be in single or multiple decimal points, but it must be unique.
+**Step Number**: This may be in single or multiple decimal points, but it must be unique.<br/>
 <br/>
 
-**Part Name**: This is for your internal reference.
+**Part Name**: This is for your internal reference.<br/>
 <br/>
 
-**Part Number**: This is for your internal reference.
+**Part Number**: This is for your internal reference.<br/>
 <br/>
 
-**Qty**: This needs to be filled in according to your process. AI Inspector will count it.
+**Qty**: This needs to be filled in according to your process. AI Inspector will count it.<br/>
 <br/>
 
-**Process Description**: Enter according to your process, but keep it succint for better visibility.
+**Process Description**: Enter according to your process, but keep it succint for better visibility.<br/>
 <br/>
 
-**Allow Skip (Y/N)**: Enter according to your process requirements.
+**Allow Skip (Y/N)**: Enter according to your process requirements.<br/>
+a. If SKIP = **Y**: Step will be allowed to Skip after "Duration" or upon clicking "DONE".<br/>
+b. If SKIP = **N**: Skip Step is not allowed, and user must show correct process to the system.<br/>
+c. "BACK" button option *only* appears each time a Step is Skipped.<br/>
 <br/>
 
-**Zone**: This is the PTZ camera zone to set the camera viewpoint. The zone may be shared with any process step or specific to the process step. The name may be of any alpha numberic format, so long as it matches the zone name in the App.conf file.
+**Zone**: This is the PTZ camera zone to set the camera viewpoint. The zone may be shared with any process step or specific to the process step. The name may be of any alpha numberic format, so long as it matches the zone name in the App.conf file.<br/>
 <br/>
 
-**Generate Voice**: Y/N to read the Process Description.
+**Generate Voice**: Y/N to read the Process Description.<br/>
 <br/>
 
-**Source**: Enter the camera ID. This links the cameras to each process steps in the process file.
+**Source**: Enter the camera ID. This links the cameras to each process steps in the process file.<br/>
 <br/>
 
-**Profile**: Enter the profile option - "part", "barcode", "qrcode", "face", "ocr". Availability depends on your module purchase.
+**Profile**: Enter the profile option - "part", "barcode", "qrcode", "face", "ocr". Availability depends on your module purchase.<br/>
 <br/>
 
-**Data Format**: Authentication format of your barcode, QR code or OCR. You may leave it empty if you wish.
+**Data Format**: Authentication format of your barcode, QR code or OCR. You may leave it empty if you wish.<br/>
 <br/>
 
-**Sequential**: Y/N for the process step.
+**Sequential**: Y/N for the process step.<br/>
 <br/>
 
-**Show Skipped Msg**: Y/N for user interface display in the video feed. 
+**Show Skipped Msg**: Y/N for user interface display in the video feed. <br/>
 <br/>
 
-**Capture Photo** Y/N for photo capture of the process step. The photo will be saved in the output data file.
+**Capture Photo** Y/N for photo capture of the process step. The photo will be saved in the output data file.<br/>
 <br/>
 <br/>
 <br/>

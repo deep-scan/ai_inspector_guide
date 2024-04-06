@@ -1,4 +1,4 @@
-# Troubleshooting
+# **Troubleshooting**
 Check out the following Troubletshooting FAQs to resolve your issue faster.
 <br/>
 <br/>
