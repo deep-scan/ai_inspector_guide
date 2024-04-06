@@ -43,10 +43,10 @@ User self configuration enables the user to setup the process in AI Inspector ac
 
 ## **Disclaimer**
 This disclaimer is in regards to the application of Deep-scan&reg;, its hardware and any other utilitiy accessories and utility compoenents. <br/>
-OREMI AI will not be liable, directly and/or indirectly, for any mishap or any unintended incidents resulting from the use or abuse of the Deep-scan&reg; system. Warranty from OREMI AI's hardware does not cover incidental or cosmetic damages.<br/>
-
+OREMI AI Pte Ltd (hereon referred to as Oremi) will not be liable, directly and/or indirectly, for any mishap or any unintended incidents resulting from the use or abuse of the Deep-scan&reg; system. Warranty from Oremi's hardware does not cover incidental or cosmetic damages.<br/>
 
 <br/><br/><br/>
+
 
 #### Notice of Rights
 All rights reserved. No part of this document may be reproduced or transmitted in any form by any means, photographic, electronic,
@@ -54,7 +54,7 @@ mechanical, photocopying, recording, or otherwise, without the prior written per
 For information on getting permission for reprints and excerpts, contact sales@oremi.sg.
 
 #### Notice of Liability
-Neither OREMI AI Pte Ltd nor the author (hereon referred to Oremi) shall have any liability to any person or entity for any loss or damage
+Neither Oremi nor the author shall have any liability to any person or entity for any loss or damage
 caused or alleged to be caused directly or indirectly by the information contained in this document, or by omissions
 from this book, or by the computer software and hardware products described within it.
 
@@ -62,3 +62,6 @@ from this book, or by the computer software and hardware products described with
 All products or services trademarks and names identified throughout this document are used for editorial purpose only and for the benefit of such companies with no
 intention of infringement of the trademark. The use of any trademark or name does not represent the intention to endorse or convey other affiliation with this document.
 Windows is a registered trademark of Microsoft Inc., macOS is a registered trademark of Apple Inc.
+
+<br/><br/>
+
