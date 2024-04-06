@@ -60,3 +60,8 @@ b. Make sure the zoom level in the PTZ zone is set sufficiently to have a close 
 c. Reduce the reflections or glare of the code label.<br/>
 d. For multiple bar codes within a single camera zone view, let Deep-scan&reg; scan each barcode separately with 5-seconds delay between each label.<br/>
 <br/>
+
+
+**Further support**<br/>
+Contact our sales team for further help if the above FAQs do not solve the issue you are encountering.<br/>
+<br/>
