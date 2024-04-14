@@ -106,3 +106,4 @@ d. Work time target setup in App.conf.<br/>
 ![quick_7.png](quick_7.png)
 <br/>
 <br/>
+
