@@ -4,8 +4,8 @@ use_directory_urls: false
 
 nav:
   - Home: index.md
-  - Quick Start: quick_start.md
   - Installation: installation.md
+  - Quick Start: quick_start.md
   - Settings: settings.md
   - Troubleshotting: troubleshooting.md
   - About: about.md
